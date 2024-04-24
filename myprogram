@@ -1,0 +1,7 @@
+this is my program 
+take 2 inputs
+variables a and b
+loop 
+  a*b
+  call function(a,b)
+  
